@@ -1,2 +1,2 @@
-# MySQL-Driver
-The official MySQL module for NovaSQL.
+# MSSQL-Driver
+The official Microsoft SQL module for NovaSQL.
